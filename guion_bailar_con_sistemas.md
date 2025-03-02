@@ -12,7 +12,7 @@
 
 ## Objetivos 
 
-Esta sesión nos ayudará a contextualizar el efecto que tiene el cambio global sobre las técnicas de gestión de socioecosistemas.  Veremos cómo en las últimas décadas los impactos provocados por nuestras actividades trascienden el ámbito local y afectan a todo el planeta. Esto nos permite definir el concepto de cambio global. De manera más concreta, los objetivos docentes son:
+La finalidad última de esta sesión es que conectemos el aprendizaje adquirido sobre sistemas complejos con las herramientas o procedimientos que debemos usar para abordar problemas con dichos sistemas. 
 
 + Distinguir los impactos locales de los globales, que surgen por repetición de los primeros.
 + Aprender a reconocer las consecuencias globales de la actividad humana. 
